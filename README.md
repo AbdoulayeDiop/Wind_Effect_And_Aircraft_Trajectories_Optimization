@@ -5,5 +5,4 @@ Implémentation d'un algorithme et d'une interface graphique pour le calcul et l
 
 ```bash
 utiliser mode d'emplois.pdf
-make nc
 ```
