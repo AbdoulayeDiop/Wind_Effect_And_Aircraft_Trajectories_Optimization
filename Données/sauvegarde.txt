@@ -1,0 +1,49 @@
+
+Depart            : LFBO
+Arrive            : LFAB
+Heure de depart   : 00:00:00
+Chemin optimal    : ['LFBO', 'LFDS', 'LFBL', 'LFEL', 'LFEF', 'LFOP', 'LFAB']
+duree minimale    = 3208.97945049 sec
+pression optimale = 400 hPa
+
+Depart            : LFAB
+Arrive            : LFAK
+Heure de depart   : 00:00:00
+Chemin optimal    : ['LFAB', 'LFQN', 'LFAK']
+duree minimale    = 788.469323239 sec
+pression optimale = 600 hPa
+
+Depart            : LFAB
+Arrive            : LFAJ
+Heure de depart   : 00:00:00
+Chemin optimal    : ['LFAB', 'LFAJ']
+duree minimale    = 817.576887612 sec
+pression optimale = 800 hPa
+
+Depart            : LFAB
+Arrive            : LFBO
+Heure de depart   : 00:00:00
+Chemin optimal    : ['LFAB', 'LFOL', 'LFOT', 'LFJT', 'LFBX', 'LFDX', 'LFBO']
+duree minimale    = 3627.2607776 sec
+pression optimale = 800 hPa
+
+Depart            : LFAB
+Arrive            : LFBO
+Heure de depart   : 12:00:00
+Chemin optimal    : ['LFAB', 'LFOP', 'LFOQ', 'LFBL', 'LFDB', 'LFBO']
+duree minimale    = 3575.23745131 sec
+pression optimale = 700 hPa
+
+Depart            : LFAB
+Arrive            : LFBO
+Heure de depart   : 12:00:00
+Chemin optimal    : ['LFAB', 'LFOP', 'LFOE', 'LFON', 'LFOC', 'LFOQ', 'LFFV', 'LFEK', 'LFCE', 'LFDE', 'LFCF', 'LFCC', 'LFBO']
+duree minimale    = 15082.3415173 sec
+pression optimale = 800 hPa
+
+Depart            : LFAB
+Arrive            : LFBO
+Heure de depart   : 12:00:00
+Chemin optimal    : ['LFAB', 'LFOQ', 'LFEG', 'LFSL', 'LFBO']
+duree minimale    = 3212.80891709 sec
+pression optimale = 800 hPa
