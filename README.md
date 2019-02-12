@@ -1,2 +1,2 @@
 # Wind_Effect_And_Aircraft_Trajectories_Optimization
-Implement an algorithm and a graphical interface in order to compute and show the optimal trajectory of an aircraft between 2 aerodromes by considering wind effect
+Implémentation d'un algorithme et d'une interface graphique pour le calcul et l'affichage de la trajectoire optimale d'un avion entre 2 aérodromes en tenant compte de l'effet du vent
